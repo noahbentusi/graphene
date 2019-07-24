@@ -39,3 +39,4 @@ object_database/*
 
 *.pyc
 *.pyo
+*.anjuta*
